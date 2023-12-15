@@ -2,7 +2,7 @@
 
 In Partial Fulfilment for the Degree of Master of Science
 
-## Learning Programming Languages: Designing a virtual reality Memory palace to check the feasibilty in learning programming languages through the use of virtual memory palace 
+## Learning Programming Languages: Designing a virtual reality Memory palace 
 
 The app is developed to explore the feasibility of learning programming languages through a virtual memory palace
 
