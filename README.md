@@ -1,2 +1,12 @@
-Project Dissertation submitted to Swansea University
+## Project Dissertation submitted to Swansea University
+
 In Partial Fulfilment for the Degree of Master of Science
+
+## Learning Programming Languages: Designing a virtual reality Memory palace to check the feasibilty in learning programming languages through the use of virtual memory palace 
+
+The app is developed to explore the feasibility of learning programming languages through a virtual memory palace
+
+
+
+https://github.com/2227500/Palace_v2/assets/115985919/6967e813-c2e5-4594-91a9-8373c9faa121
+
